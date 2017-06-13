@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2_3</string>
+    <string name="edit_text">Edit_text</string>
+    <string name="close">Close</string>
+    <string name="get">Get</string>
+    <string name="hi">Hi</string>
+</resources>
